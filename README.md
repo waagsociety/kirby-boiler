@@ -1,7 +1,13 @@
 # Waag Society Kirby boiler:
 
+##Installation
+- npm install
 
-#modules
+##Installation
+- gulp
+- gulp start (starts watching project changes during development)
+
+##modules
 - https://github.com/bjankord/stylelint-config-sass-guidelines
 - https://www.npmjs.com/package/gulp
 - https://www.npmjs.com/package/gulp-sass
@@ -12,6 +18,6 @@
 - https://github.com/babel/babel-eslint
 
 
-#Sublime packages needed
+##Sublime packages needed
 - http://www.sublimelinter.com/en/latest/installation.html
 - https://github.com/roadhump/SublimeLinter-eslint
