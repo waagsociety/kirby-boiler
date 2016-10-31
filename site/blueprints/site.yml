@@ -1,0 +1,26 @@
+title: Site
+pages: true
+fields:
+  title: title
+  description: description
+  author:
+    label: Author
+    type:  text 
+  keywords:
+    label: Keywords
+    type:  tags
+  facebook:
+    label: Facebook link
+    type:  text
+  instagram:
+    label: Instagram link
+    type:  text
+  twitter:
+    label: Twitter link
+    type:  text
+  copyright:
+    label: Copyright
+    type:  textarea
+  line:
+    type: line
+  seotitle: seotitle

@@ -1,0 +1,28 @@
+title: Page
+icon: file-text-o 
+pages: true
+files:
+  fields:
+    copyright:
+      label: Copyright
+      type: text
+    caption:
+      label: Caption
+      type: text
+fields:
+  title: title
+  description: description
+  text: text
+  postimage:
+    label: Main Post Image
+    type:  selector
+    mode:  single
+    types:
+        - image
+  submenu:
+    label: Show submenu
+    type: checkbox
+    text: Do you want to display the submenu?
+  line:
+    type: line
+  seotitle: seotitle

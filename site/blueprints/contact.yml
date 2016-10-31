@@ -1,0 +1,14 @@
+title: Contact
+pages: true
+files: true
+fields:
+  title: title
+  description: description
+  text: text
+  submenu:
+    label: Show submenu
+    type: checkbox
+    text: Do you want to display the submenu?
+  line:
+    type: line
+  seotitle: seotitle
