@@ -15,6 +15,5 @@ fields:
     label: Twitter link
     type:  text
   copyright: copyright
-  line: line
   seotitle: seo-title
   seodescription: seo-description

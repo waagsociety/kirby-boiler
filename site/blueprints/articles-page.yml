@@ -6,14 +6,36 @@ files:
     copyright: copyright
     description: description
     caption: caption
+    
 fields:
+  sectionDefault:
+    label: Content
+    id: default
+    type: tab
+    icon: file-text-o
+
   title: title
   description: description
-  author: author
   cover: image-cover
   preview: image-preview
-  text: text
+  sections: sections-article
+
+  sectionMeta:
+    label: Metadata
+    id: meta
+    type: tab
+    icon: info-circle
+
+  author: author  
   keywords: keywords
-  line: line
+  created: datetime-created
+  edited: datetime-edited  
+
+  sectionSeo:
+    label: SEO
+    id: seo
+    type: tab
+    icon: search
+
   seotitle: seo-title
   seodescription: seo-description

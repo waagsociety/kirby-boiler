@@ -8,3 +8,5 @@ language: en
 role: admin
 firstname: ""
 lastname: ""
+history:
+  - articles/dummy-article
