@@ -10,7 +10,8 @@ fields:
   title: title
   description: description
   author: author
-  hero: hero
+  cover: image-cover
+  preview: image-preview
   text: text
   keywords: keywords
   line: line

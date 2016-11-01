@@ -10,6 +10,5 @@ fields:
   title: title
   description: description
   text: text
-  hero: hero
   line: line
   seotitle: seotitle
