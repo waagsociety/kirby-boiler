@@ -5,10 +5,5 @@ fields:
   title: title
   description: description
   text: text
-  submenu:
-    label: Show submenu
-    type: checkbox
-    text: Do you want to display the submenu?
-  line:
-    type: line
+  line: line
   seotitle: seotitle

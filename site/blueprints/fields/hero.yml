@@ -1,0 +1,6 @@
+label: Header Image
+  type:  selector
+  mode:  single
+  required: true
+  types:
+    - image

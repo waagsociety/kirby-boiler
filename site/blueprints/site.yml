@@ -3,12 +3,8 @@ pages: true
 fields:
   title: title
   description: description
-  author:
-    label: Author
-    type:  text 
-  keywords:
-    label: Keywords
-    type:  tags
+  author: author
+  keywords: keywords
   facebook:
     label: Facebook link
     type:  text
@@ -18,9 +14,7 @@ fields:
   twitter:
     label: Twitter link
     type:  text
-  copyright:
-    label: Copyright
-    type:  textarea
+  copyright: copyright
   line:
     type: line
   seotitle: seotitle

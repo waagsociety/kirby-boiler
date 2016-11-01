@@ -7,6 +7,5 @@ fields:
   title: title
   description: description
   text: text
-  line:
-    type: line
+  line: line
   seotitle: seotitle

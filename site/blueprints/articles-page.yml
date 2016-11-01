@@ -1,6 +1,6 @@
-title: Page
-icon: file-text-o 
-pages: true
+title: Article
+icon: file-text-o
+pages: false
 files:
   fields:
     copyright: copyright
@@ -9,7 +9,10 @@ files:
 fields:
   title: title
   description: description
-  text: text
+  author: author
   hero: hero
+  text: text
+  keywords: keywords
   line: line
   seotitle: seotitle
+  seodescription: seodescription

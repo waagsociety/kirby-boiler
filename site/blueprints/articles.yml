@@ -1,17 +1,10 @@
 title: Articles
 icon: newspaper-o
-pages: true
-  template: article
+pages: article
 files: false
 fields:
   title: title
   description: description
-  listtitle:
-    label: List title
-    type:  text
-  text:
-    label: Text
-    type:  textarea
-  line:
-    type: line
+  text: text
+  line: line
   seotitle: seotitle
