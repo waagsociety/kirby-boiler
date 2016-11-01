@@ -3,7 +3,7 @@
 ##Installation
 - npm install
 
-##Installation
+##Development
 - gulp
 - gulp start (starts watching project changes during development)
 
