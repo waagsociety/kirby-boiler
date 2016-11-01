@@ -16,5 +16,5 @@ fields:
     type:  text
   copyright: copyright
   line: line
-  seotitle: seotitle
-  seodescription: seodescription
+  seotitle: seo-title
+  seodescription: seo-description

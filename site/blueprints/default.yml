@@ -11,5 +11,5 @@ fields:
   description: description
   text: text
   line: line
-  seotitle: seotitle
-  seodescription: seodescription
+  seotitle: seo-title
+  seodescription: seo-description
