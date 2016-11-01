@@ -1,0 +1,9 @@
+label: Date Created
+type: datetime
+  date:
+    format: DD-MM-YYYY
+  time:
+    format: 24
+  default: now
+width: 1/2
+hide: true

@@ -15,5 +15,5 @@ fields:
   text: text
   keywords: keywords
   line: line
-  seotitle: seotitle
-  seodescription: seodescription
+  seotitle: seo-title
+  seodescription: seo-description
