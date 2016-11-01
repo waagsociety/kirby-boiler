@@ -1,14 +1,11 @@
 {
-  "name": "waag-boiler-plate",
+  "name": "Kirby boilerplate",
   "version": "1.0.0",
-  "description": "Waag standard kirby setup",
+  "description": "Kirby CMS default boilerplate by Waag Society",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Ditos"
-  ],
   "author": "Martin Risseeuw & Nathan Uphoff",
   "license": "ISC",
   "devDependencies": {
